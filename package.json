@@ -1,14 +1,14 @@
 {
-  "name": "hw-node-1",
+  "name": "hw-node-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "Homework from Node.js course",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hokhman Andrii",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.22"
